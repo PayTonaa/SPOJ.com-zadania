@@ -17,8 +17,6 @@ if czy_nieparzysta_liczba_dzielnikow(n):
 else:
     print("NIE")
 
-
-
 # polecenie:
 
 
