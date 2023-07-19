@@ -1,3 +1,4 @@
+#  https://pl.spoj.com/problems/FR_14_08/
 def czy_nieparzysta_liczba_dzielnikow(n):
     dzielniki = 0
     for i in range(1, int(n ** 0.5) + 1):
