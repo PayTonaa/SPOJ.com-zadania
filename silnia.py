@@ -1,3 +1,4 @@
+# https://pl.spoj.com/problems/FCTRL3/
 D = int(input())
 for x in range(D):
     n = int(input())
