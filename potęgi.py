@@ -1,3 +1,4 @@
+# https://pl.spoj.com/problems/PA05_POT/
 def last_digit(a, b):
     if b == 0:
         return 1
